@@ -1,3 +1,3 @@
-# HelpperBot
+# Beat
 
-it helps you to learn programming
+The new way to collect cards.
